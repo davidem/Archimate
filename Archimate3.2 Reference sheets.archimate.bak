@@ -3799,237 +3799,237 @@ implementation process, or its realization.</content>
           <bounds x="487" y="291" width="120" height="55"/>
         </child>
       </child>
-      <child xsi:type="archimate:Group" id="id-59074a74f2674a2da6f02f80b9e526f2" name="Business Layer Elements" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffff" borderType="1">
+      <child xsi:type="archimate:Group" id="id-f3865a8a04da414db8e320b7127c44c4" name="Business Layer Elements" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffff" borderType="1">
         <bounds x="-72" y="1752" width="697" height="841"/>
-        <child xsi:type="archimate:Group" id="id-f25a874be0fe4a1b8a91c019dc5ba09f" name="Element" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" fontColor="#feffff" textAlignment="1" fillColor="#e39a02" borderType="1">
+        <child xsi:type="archimate:Group" id="id-64b73304406e4f148f648b77895a14a6" name="Element" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" fontColor="#feffff" textAlignment="1" fillColor="#e39a02" borderType="1">
           <bounds x="12" y="24" width="109" height="25"/>
         </child>
-        <child xsi:type="archimate:Group" id="id-f92706134ad249efb234cf4de19545f8" name="Definition" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" fontColor="#feffff" textAlignment="1" fillColor="#e39a02" borderType="1">
+        <child xsi:type="archimate:Group" id="id-5a0e564d1e5943f8a65caf71d473b354" name="Definition" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" fontColor="#feffff" textAlignment="1" fillColor="#e39a02" borderType="1">
           <bounds x="120" y="24" width="362" height="25"/>
         </child>
-        <child xsi:type="archimate:Group" id="id-bbf167edfbac4994be5e9e758a5a6318" name="Notation" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" fontColor="#feffff" textAlignment="1" fillColor="#e39a02" borderType="1">
+        <child xsi:type="archimate:Group" id="id-a69bf27b047a4b4b8db5d12633f87aa3" name="Notation" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" fontColor="#feffff" textAlignment="1" fillColor="#e39a02" borderType="1">
           <bounds x="481" y="24" width="204" height="25"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-e7324108ea0549448f60702b3aa8becc" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-7bde6498d3264318881db510ec45d174" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="588" width="109" height="61"/>
           <content>Business Object</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-bca25ba487034937a1df5b9f867c914b" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-d7754ef82cdc4c779570a379dd5ade17" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="228" width="362" height="61"/>
-          <content>Represents a point of access where a business service is made available to the environment. </content>
+          <content>Represents an aggregate of two or more business internal active structure elements that work together to perform collective behavior.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-79624e3fc31347e499c21e457773c626" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-a40b435b61f64634be5bc1fc5d531f38" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="468" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-f71fe970911546f6b7378f8b5df2b777" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-1530c7e253f64ac3b039eead6601ca8a" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="168" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-cec19e34591e4325b3616dc05c76a111" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-0f741ebbf30a4941b4022322b5a7a7a5" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="408" width="109" height="61"/>
           <content>Business Interaction</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-f33e1d9c3959496d948abac3041289c9" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-6cef7b07be6240079eaa483e06d8b411" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="48" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-c9759a1081374ffb93d84c9d046e4e6b" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-71312694cabc430d8a57fc07825ce872" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="228" width="109" height="61"/>
           <content>Business Interface</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-2124324be73547af91e1e72f477099e6" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-0b4e412d0c8c4fa89fb503a34b72a54a" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="48" width="362" height="61"/>
           <content>Represents a business entity that is capable of performing behavior.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-400e504b5cdf46c3989ab330294ee5e7" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-22d3752199c0451098e2de5dcb5e0ebe" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="528" width="362" height="61"/>
           <content>Represents explicitly defned behavior that a business role, business actor, or business collaboration exposes to its environment.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-ff6b9b471058424eb6b96b15167e3ab6" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-776f4b8c437148a5b8dd7f44476cb348" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="288" width="362" height="61"/>
-          <content>Represents a sequence of business behaviors that achieves a specific result such as a defined set of products or business services..</content>
+          <content>Represents an end result, effect, or consequence of a certain state of affairs.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-d2f19f968d224fe88c50d90432767901" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-df7628cc37c84f9fb0bf20f759f78295" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="588" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-a026fddd703f478880821cbbc8b4e846" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-7c0b6cc5be794d6bbafc17c44b37cf96" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="528" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-d44256e88ce34cccbd47c86bceba57ad" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-f834841fcc4f4e9a9f9123f5b71a1e0d" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="348" width="109" height="61"/>
           <content>Business Function</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-e7c42dbe013d430593753a8c84ccc747" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-dee07036fb86496aa73359920d5dfc20" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="588" width="362" height="61"/>
           <content>Represents a concept used within a particular business domain.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-4b706fe344f84ccabb6d7e20a7e4b980" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-2fd986596a394053bd953abee79ea22f" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="288" width="109" height="61"/>
           <content>Business Process</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-256a3e14095f4d87b374be8501819d5a" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-15391ed568254aa1b515330f59e1270b" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="228" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-39aca62521ae45ed9d72a52f0bde2827" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-3962e9f000ee4b3488de90e7b9f39610" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="168" width="362" height="61"/>
-          <content>Represents an aggregate of two or more business internal active structure elements that work together to perform collective behavior.</content>
+          <content>Represents the result of an analysis of the state of affairs of the enterprise with respect to some driver.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-4453eb3293744a08b72bae4540d26795" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-89ba91c94e774056b695241522970973" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="48" width="109" height="61"/>
           <content>Business Actor</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-de401ecdf72740ddb3250117d46acb50" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-9c7fccfa95d74024a04249b1ca7e1235" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="528" width="109" height="61"/>
           <content>Business Service</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-b57ca6b6b70c4442ae12114989272563" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-6e82424e8b6943728c54bb26568dae02" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="348" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-3422fd2e3f9542a49e2e81d9e668447c" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-32e021abcaf94a3b863c636ad467ea56" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="108" width="362" height="61"/>
           <content>Represents the responsibility for performing specifc behavior, to which an actor can be assigned, or the part an actor plays in a particular action or event.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-53b78dc862404ae78adcaaf71f2abf12" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-13b5a08cdc964e388a6aec8502249027" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="108" width="109" height="61"/>
           <content>Business Role</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-b4bcbcf2d21642beb058d9e8002083d2" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-40262651e5ec451d9e3ab4f86fd7af2c" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="168" width="109" height="61"/>
           <content>Business Collaboration</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-a7c16b2ca0e3461996e017ce70c79eb7" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-5ec41f97c5f74f2b8097e25f59870450" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="468" width="362" height="61"/>
           <content>Represents a business-related state change.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-58d3f4223e074aa0bea445b4307dbcf4" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-72295e525157449089a6bf888b6d7a3c" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="408" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-bc11f44d55dd4d7aa74b9ee9990b190f" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-abdeabef4b904307a382c8874aa030e9" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="108" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-252eee0d59d146bab5f87d80ac9d1f5c" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-86dba5d6c6424d548a8b23700bf5c9cf" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="288" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-b67f35d0356f4d9abaaf5bd992aa51ce" font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-3c9354847a784bc3bd85f4c861ac6882" font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="348" width="362" height="61"/>
           <content>Represents a collection of business behavior based on a chosen set of criteria (typically required business resources and/or competencies), closely aligned to an organization, but not necessarily explicitly governed by the organization.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-95b0a685c5c946faa16a07e09e33406b" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-e81b6791548f489ca4b4141c834543ba" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="468" width="109" height="61"/>
           <content>Business Event</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-9993904cff1e4498838bf0da5239c76e" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-a4d6c11b677b4d0bb8969e210267a4cf" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="408" width="362" height="61"/>
           <content>Represents a unit of collective business behavior performed by (a collaboration of) two or more business actors, business roles, or business collaborations.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-347fee57dcf341d1b723d93967619773" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-05400e0a10264c93ae5530688fb854c1" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="768" width="109" height="61"/>
           <content>Product</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-bd76fa20fc41430fbfb10e322b9e0c74" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-cf92f4b2862e40a5b064ebda33d0d208" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="648" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-d5db40aca67f4f128977985a5604d40d" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-9e34c488b2b24906856d6a97490e788e" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="708" width="362" height="61"/>
           <content>Represents a perceptible form of the information carried by a business object.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-eef74d0c21ea4798bf77200341ca2c06" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-3ffbf93ac73d4c8f893135f26a7b8d41" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="768" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-998974bd5d1e4b5e886906f8bd1e3824" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-ce5f9e5b3cfd44ca901d1230e054b357" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="708" width="204" height="61"/>
         </child>
-        <child xsi:type="archimate:Note" id="id-7a12107c3edc42bb9ec0c3b5f4590409" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-7f8acfc6c68c433e94c07c399b53ecb7" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="768" width="362" height="61"/>
           <content>Represents a coherent collection of services and/or passive structure elements, accompanied by a contract, which is offered as a whole to (internal or external) customers.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-1f146c30246d44cf854c33bf1d47dcff" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-d84027379a8f4899a3771f63c31576a0" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="708" width="109" height="61"/>
           <content>Representation</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-218784a4c9104b379001e128ca319ca3" font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-b26c25b30d23400bb348077f42749c93" font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="648" width="362" height="61"/>
           <content>Represents a formal or informal specifcation of an agreement between a provider and a consumer that specifes the rights and obligations associated with a product and establishes functional and non-functional parameters for interaction.</content>
         </child>
-        <child xsi:type="archimate:Note" id="id-0fde023609f04915af7092848451e5d5" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
+        <child xsi:type="archimate:Note" id="id-c71001b81e9a4009ba697053ea46185b" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="12" y="648" width="109" height="61"/>
           <content>Contract</content>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-75ff9387493f4809b7eeeb97e4e8ef7c" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-7d350077cc264407a73930d1fd5c2a84" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-4d21399f033d4893b0771fe51efeefde" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-7d350077cc264407a73930d1fd5c2a84" type="1">
           <bounds x="623" y="60" width="49" height="37"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-bc7be5b003f64173bfd40f917dc8a7b9" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-4f4af6ded2a147dc95288a214ce6777e" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-0754542352464879a250464879e34f0e" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-4f4af6ded2a147dc95288a214ce6777e" type="1">
           <bounds x="623" y="132" width="49" height="25"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-943e3e790a744db1953d2aaca99d9800" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" archimateElement="id-7a19060f6f4740419c96b27b08f328bc" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-f97d80aa72214fabbef400ecec50d812" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" archimateElement="id-7a19060f6f4740419c96b27b08f328bc" type="1">
           <bounds x="623" y="180" width="49" height="37"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-26b198735403480a92171f9d104bf57f" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" imagePosition="4" archimateElement="id-693deff890e645429cee8d560183f63f" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-8c1de1036ad547a295e08b5eb03711aa" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" imagePosition="4" archimateElement="id-693deff890e645429cee8d560183f63f" type="1">
           <bounds x="611" y="239" width="73" height="40"/>
           <feature name="imageSource" value="1"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-fefcf8f89c4c477c8501cec1a388a938" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-1a8c2a900c544107b80dcd6cf36a42bb" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-b79511bcfcf3408d875d8631e0cec5ac" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-1a8c2a900c544107b80dcd6cf36a42bb" type="1">
           <bounds x="629" y="300" width="49" height="37"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-051472138e3e466cba16f9ccd42f1350" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-3655c9afa0f34e18a384160f4d4c4257" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-ccc04f3d0bfa44458c31164918e26703" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-3655c9afa0f34e18a384160f4d4c4257" type="1">
           <bounds x="629" y="366" width="49" height="26"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-3f24c9e6e446427db5448a750d3065b9" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-4c8a68936939436d85ef0585686b0609" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-2ecc354fd82047e29cc6bbd8a144bcb1" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-4c8a68936939436d85ef0585686b0609" type="1">
           <bounds x="629" y="419" width="49" height="40"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-292074c91fc2487dbdb3ee9eae699ca7" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-a5ef37e2b2a347e2b1f18ae9a47227c1" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-8ea099a385d94bd2a8a11174e223f85f" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-a5ef37e2b2a347e2b1f18ae9a47227c1" type="1">
           <bounds x="629" y="486" width="49" height="25"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-bbea7f48e7864eb086cba7966d5dcc7c" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-83183a356dc9455b88ab885862ea57ef" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-d785f0a40556405fb80c1e61b2616d1e" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-83183a356dc9455b88ab885862ea57ef" type="1">
           <bounds x="629" y="545" width="49" height="27"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-bd75ee2f31c54964835bbd1c85447819" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-b338330370d14533a1e58a0b07defb4a">
+        <child xsi:type="archimate:DiagramObject" id="id-068a3a5dd6804599a3f4f6574bc6fe2e" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-b338330370d14533a1e58a0b07defb4a">
           <bounds x="492" y="51" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-d2a857e45d57477ab092429d9847372d" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-620ff06b6161412781b51988167613e4">
+        <child xsi:type="archimate:DiagramObject" id="id-eac12aa8e0ad4562a7568ac6cabc19ff" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-620ff06b6161412781b51988167613e4">
           <bounds x="492" y="111" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-35ddafebd72f47fba849e66248c0d971" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-749d2a8fe72d4692a33d5bd7913a3e9f">
+        <child xsi:type="archimate:DiagramObject" id="id-1506ddef526c4ce29818e22ca64e6184" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-749d2a8fe72d4692a33d5bd7913a3e9f">
           <bounds x="492" y="171" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-5ea600b666844b0985d44b359b544749" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-b6b5811c1af14501aa9a4c5eb6be3bc4">
+        <child xsi:type="archimate:DiagramObject" id="id-901a137473a14418a12a4a13882c80fa" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-b6b5811c1af14501aa9a4c5eb6be3bc4">
           <bounds x="492" y="231" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-faf0e9328cf84e47b51e3ffc25104430" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-bf5edd3d09c449cd9eadc86ff038a87d">
+        <child xsi:type="archimate:DiagramObject" id="id-3b75ccd9be964f77ae94ab0c90b21393" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-bf5edd3d09c449cd9eadc86ff038a87d">
           <bounds x="492" y="291" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-cfad66765f1a4d9687d28f399ba26522" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-0e545b0ce67747d9b3887ce14e0a9627">
+        <child xsi:type="archimate:DiagramObject" id="id-9d4fb34dc1ee41c8afb2a0b03fbccf3c" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-0e545b0ce67747d9b3887ce14e0a9627">
           <bounds x="492" y="351" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-4da6dce055d043038601d37a02eed2c0" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-5a71713985d54a638c2660f782e0c2ad">
+        <child xsi:type="archimate:DiagramObject" id="id-7406762d57aa4f07a029023bffe7987b" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-5a71713985d54a638c2660f782e0c2ad">
           <bounds x="492" y="411" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-4aa03ab9a9884ba69c528761139c87bc" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-81fcd25e0dec4c14b2de0214ac352910">
+        <child xsi:type="archimate:DiagramObject" id="id-03d17f6f59dc4d0a8df7cccbbe55fe7f" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-81fcd25e0dec4c14b2de0214ac352910">
           <bounds x="492" y="471" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-30fe1a4caee44824ab0c46aabcee42ee" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-91f553cdfecb44da896371b4c7535263">
+        <child xsi:type="archimate:DiagramObject" id="id-f885e65597da479fa7a9418b8f851545" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-91f553cdfecb44da896371b4c7535263">
           <bounds x="492" y="531" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-e2e5c89c8a8542a1a5396daa00cf8569" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-5ec1acd9cfeb4b918fba9548199e3420">
+        <child xsi:type="archimate:DiagramObject" id="id-a1e6c05fd1044bcb9a318a29932e12ca" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-5ec1acd9cfeb4b918fba9548199e3420">
           <bounds x="492" y="591" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-287231ee9c8e42c7b63d71f1ac5559d2" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-3e76b5a357e94f789dd5aff6d5e5af1e" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-c22afac777a54d85bf1f0a0693e8c940" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-3e76b5a357e94f789dd5aff6d5e5af1e" type="1">
           <bounds x="630" y="602" width="48" height="34"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-63a9769762dc49ff87a48b7f9c5c28b4" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-676ae814e012413cae07a8294c3d954e">
+        <child xsi:type="archimate:DiagramObject" id="id-b20b18b956604059b28785fe3f46dcc1" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-676ae814e012413cae07a8294c3d954e">
           <bounds x="492" y="651" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-65f8daece3d94bd1bb8c4026253fe87b" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-8672ca19ca384561adb60711d6f21de4" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-6842591fdeae4787b9cafdcbd9c5cc16" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-8672ca19ca384561adb60711d6f21de4" type="1">
           <bounds x="630" y="662" width="48" height="34"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-9bc0de972d8b43afb034a1a79791864b" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-c20821134ddf472090bdcd1c8f87bc68">
+        <child xsi:type="archimate:DiagramObject" id="id-c6d6c6b5bd38481eae79b83980f4b524" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-c20821134ddf472090bdcd1c8f87bc68">
           <bounds x="492" y="711" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-70d3b77536374b84b037af05f7057d41" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-3b4e20e3728c492ab0c0ac1d49f0ec51" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-611e5ac2cc0945aebe27d25027aa0018" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-3b4e20e3728c492ab0c0ac1d49f0ec51" type="1">
           <bounds x="629" y="725" width="49" height="28"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-c777a32f54e241578b1be0a3e0e13a98" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-6d6e2aeac6fe41cba699d9dc7ac594f1">
+        <child xsi:type="archimate:DiagramObject" id="id-db586613b2ac4dd487573746a5d5f4a6" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textPosition="1" archimateElement="id-6d6e2aeac6fe41cba699d9dc7ac594f1">
           <bounds x="492" y="771" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-003f4e09e30d41dfb535a39a0c95e260" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-49119b066aa84db19ce9bd107981f5e6" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-250c7bed91c64eb9aa0d6db29aec5564" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-49119b066aa84db19ce9bd107981f5e6" type="1">
           <bounds x="630" y="782" width="48" height="34"/>
         </child>
       </child>
