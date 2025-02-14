@@ -20,3 +20,4 @@ It consists out of
 - Added note to Interface elements. See here [for](https://github.com/archimatetool/archi/issues/1120#issuecomment-2657818729) more info.
 - Updated Full Framework
 - Added Core Framework
+- Retrofitted elemental view into Full Framework for cleared overview. And swapped Active and Behavior to match framework.
