@@ -586,7 +586,7 @@
           </child>
           <child xsi:type="archimate:Note" id="id-9167dc1020364837be1a8d46fe309f4e" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
             <bounds x="120" y="204" width="418" height="49"/>
-            <content>Represents that an entity plays a critical role in the creation, achievement, sustenance, or operation of a more abstract entity.</content>
+            <content>Represents that an element plays a critical role in the creation, achievement, sustenance, or operation of a more abstract element.</content>
           </child>
           <child xsi:type="archimate:DiagramObject" id="id-8987707c275f4e08ba1ebfbe3a9aee69" targetConnections="id-e55c028c3f5c43979210ed812b88f102" fontColor="#ffffff" alpha="0" archimateElement="id-1cb329cae8f8485d8f191aaa0a123ed1" type="1">
             <bounds x="648" y="172" width="13" height="13"/>
@@ -2893,7 +2893,7 @@ implementation process, or its realization.</content>
         </child>
         <child xsi:type="archimate:Note" id="id-d85f71fdb1954df9b888caf3a5d4eed7" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="119" y="192" width="418" height="49"/>
-          <content>Represents that an entity plays a critical role in the creation, achievement, sustenance, or operation of a more abstract entity.</content>
+          <content>Represents that an element plays a critical role in the creation, achievement, sustenance, or operation of a more abstract element.</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6bae6c379f8d47c2a6ad5166baac6942" targetConnections="id-c53486bdb019425a8fcce5aace7764b2" fontColor="#ffffff" alpha="0" archimateElement="id-1cb329cae8f8485d8f191aaa0a123ed1" type="1">
           <bounds x="647" y="160" width="13" height="13"/>
@@ -3845,7 +3845,7 @@ implementation process, or its realization.</content>
         </child>
         <child xsi:type="archimate:Note" id="id-ff6b9b471058424eb6b96b15167e3ab6" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="120" y="288" width="362" height="61"/>
-          <content>Represents a sequence of business behaviors that achieves a specific result such as a defined set of products or business services..</content>
+          <content>Represents a sequence of business behaviors that achieves a specific result such as a defined set of products or business services.</content>
         </child>
         <child xsi:type="archimate:Note" id="id-d2f19f968d224fe88c50d90432767901" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" textAlignment="1" borderType="1">
           <bounds x="481" y="588" width="204" height="61"/>
