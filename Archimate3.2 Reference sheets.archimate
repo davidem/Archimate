@@ -1977,32 +1977,159 @@ implementation process, or its realization.</content>
         </child>
       </element>
     </folder>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="ARCHI 3.2 Reference Cards en model" id="id-89fced48400d4cce98d74a4afde83711">
-      <child xsi:type="archimate:Note" id="id-02b16d787e994e3d886310e9fbeee626" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffffb5" textPosition="1" borderType="1">
-        <bounds x="1608" y="156" width="765" height="58"/>
-        <feature name="lineAlpha" value="0"/>
-        <content>Business</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-42ca18063746492c83242004e2aad1b8" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fillColor="#ccccff" borderType="1">
-        <bounds x="2388" y="36" width="157" height="420"/>
-        <content>Motivation</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-95cdb70b163e432b97b3483e80de84ca" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#b5ffff" textPosition="1" borderType="1">
-        <bounds x="1608" y="228" width="765" height="58"/>
-        <feature name="lineAlpha" value="0"/>
-        <content>Application</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-36f56661e5fe465daa7ee46d6db6fa30" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#ffe0e0" textPosition="1" borderType="1">
-        <bounds x="1608" y="372" width="765" height="58"/>
-        <feature name="lineAlpha" value="0"/>
-        <content>Implementation &amp; &#xD;
+    <folder name="Archimate 3.2 framework" id="id-01d54c762c364af0b45279705ea27bb0">
+      <element xsi:type="archimate:ArchimateDiagramModel" name="Archimate Full Framework" id="id-6d11d7ac6c7343afb064af54c2a02e11">
+        <child xsi:type="archimate:Group" id="id-99cc1749014d48ccb765e8f8683dcd62" name="Archimate Full Framework" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffff" borderType="1">
+          <bounds x="72" y="60" width="961" height="529"/>
+          <child xsi:type="archimate:Note" id="id-94d05ec58db8460ba0c4a54850390123" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#c9e7b7" borderType="1">
+            <bounds x="84" y="288" width="685" height="97"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Technology</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-cebd170baa994d898812bb687503ed5c" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#f5dda9" textPosition="1" borderType="1">
+            <bounds x="84" y="72" width="685" height="61"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Strategy</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-a25bb8a51f5c42d09bcf809195fac852" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" lineWidth="2" textAlignment="1" fillColor="#c2d7b1" textPosition="1" borderType="1">
+            <bounds x="94" y="319" width="663" height="54"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Physical</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-8182abc2d36b4e82a6b8a5d759e333a2" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffb5" textPosition="1" borderType="1">
+            <bounds x="84" y="144" width="685" height="61"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Business</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-cbe20a83fb704957a183a392d6858902" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="12" y="264" width="61" height="36"/>
+            <content>Layers</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-1fb9fb2d75514292a03e49ec315f2823" targetConnections="id-a98c55b3382a49d09ea44c605a4b5b66" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="48" y="455" width="37" height="38"/>
+            <feature name="lineAlpha" value="0"/>
+          </child>
+          <child xsi:type="archimate:Note" id="id-b21da9c8011a4d1d887cb7e3de4471ad" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="528" y="492" width="97" height="29"/>
+            <content>Aspects</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-657408abc000483c902e51cadd4875fc" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#b5ffff" textPosition="1" borderType="1">
+            <bounds x="84" y="215" width="685" height="61"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Application</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-9bd9bc752ba34286ae7594837ff4c7d3" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffe0e0" textPosition="1" borderType="1">
+            <bounds x="84" y="395" width="685" height="61"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Implementation &amp; &#xD;
 Migration</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-b004d3393f9c417d9db2094571aa28ab" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#f5deaa" textPosition="1" borderType="1">
-        <bounds x="1608" y="84" width="765" height="58"/>
-        <feature name="lineAlpha" value="0"/>
-        <content>Strategy</content>
-      </child>
+          </child>
+          <child xsi:type="archimate:Note" id="id-d99806e4d90f4909a2858fe95cd5299a" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="192" y="468" width="37" height="53"/>
+            <feature name="lineAlpha" value="0"/>
+            <sourceConnection id="id-4ee85189947e42ffa385a23825584da9" source="id-d99806e4d90f4909a2858fe95cd5299a" target="id-3c8cc576defd475b979ff1204f6c299e"/>
+          </child>
+          <child xsi:type="archimate:Note" id="id-4023f30a533f4c6c8c4dbeab860c14cb" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#ccccff" borderType="1">
+            <bounds x="780" y="36" width="157" height="433"/>
+            <content>Motivation</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-3c8cc576defd475b979ff1204f6c299e" targetConnections="id-4ee85189947e42ffa385a23825584da9" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="936" y="468" width="25" height="49"/>
+            <feature name="lineAlpha" value="0"/>
+          </child>
+          <child xsi:type="archimate:Note" id="id-dd6e64be0e1946c89e79941db6172b8f" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#c0c0c0" alpha="155" borderType="1">
+            <bounds x="588" y="36" width="157" height="433"/>
+            <content>Active Structure</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-d149bf6381494844a67732e6dd73c359" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#d5d5d5" alpha="155" borderType="1">
+            <bounds x="408" y="36" width="157" height="433"/>
+            <content>Behavior</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-e214740039694aa6b0abcac69b786ebe" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#eaeaea" alpha="155" borderType="1">
+            <bounds x="229" y="36" width="157" height="433"/>
+            <content>Passive Structure</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-17759a956ea24991a4681e42df9c43f6" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="48" y="36" width="37" height="37"/>
+            <feature name="lineAlpha" value="0"/>
+            <sourceConnection id="id-a98c55b3382a49d09ea44c605a4b5b66" source="id-17759a956ea24991a4681e42df9c43f6" target="id-1fb9fb2d75514292a03e49ec315f2823"/>
+          </child>
+        </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="Archimate Core Framework" id="id-9a22820115814750abf991c5684bd45b">
+        <child xsi:type="archimate:Group" id="id-7605224693604ce39e42f3ca96c2d2bb" name="Archimate Core Framework" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffff" borderType="1">
+          <bounds x="96" y="24" width="709" height="457"/>
+          <child xsi:type="archimate:Note" id="id-691cc52f8758440297f8d1bfd30a2978" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#c9e7b7" borderType="1">
+            <bounds x="96" y="288" width="589" height="97"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Technology</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-8fbb1158db7c463db815693a9cea831f" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#f5dda9" textPosition="1" borderType="1">
+            <bounds x="96" y="72" width="589" height="61"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Strategy</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-0fb973569c454aaf969567b1f339c44a" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" lineWidth="2" textAlignment="1" fillColor="#c2d7b1" textPosition="1" borderType="1">
+            <bounds x="106" y="319" width="567" height="54"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Physical</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-bedb3ceb33b34b3f866152def681c5a8" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffb5" textPosition="1" borderType="1">
+            <bounds x="96" y="144" width="589" height="61"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Business</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-1f0be448a5894e9593ce57ca87cc99c3" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="12" y="264" width="61" height="36"/>
+            <content>Layers</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-677af020981849f4bc2be1f48bb9db77" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="48" y="455" width="37" height="60"/>
+            <feature name="lineAlpha" value="0"/>
+          </child>
+          <child xsi:type="archimate:Note" id="id-6521089dccb0488aba627019b6800dcf" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="465" y="420" width="67" height="29"/>
+            <content>Aspects</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-b2ae3d05f79b4a32a5e79e2750bdea60" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#b5ffff" textPosition="1" borderType="1">
+            <bounds x="96" y="215" width="589" height="61"/>
+            <feature name="lineAlpha" value="0"/>
+            <content>Application</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-a178fe6cc3754025baf350f9c10519eb" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="205" y="396" width="37" height="53"/>
+            <feature name="lineAlpha" value="0"/>
+            <sourceConnection id="id-0f34947264d54a77b00b7a9361bf65d2" source="id-a178fe6cc3754025baf350f9c10519eb" target="id-b663c614a5ba4959a4592cc465139e43"/>
+          </child>
+          <child xsi:type="archimate:Note" id="id-b663c614a5ba4959a4592cc465139e43" targetConnections="id-0f34947264d54a77b00b7a9361bf65d2" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="684" y="398" width="25" height="49"/>
+            <feature name="lineAlpha" value="0"/>
+          </child>
+          <child xsi:type="archimate:Note" id="id-314bd81594774f418401a532874c06cb" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#c0c0c0" alpha="155" borderType="1">
+            <bounds x="528" y="36" width="133" height="361"/>
+            <content>Active Structure</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-6eb252286a6840b8b0ba89fb1d20b9bd" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#d5d5d5" alpha="155" borderType="1">
+            <bounds x="384" y="36" width="133" height="361"/>
+            <content>Behavior</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-bc440a947e8a424e9635bec199f23ccc" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#eaeaea" alpha="155" borderType="1">
+            <bounds x="241" y="36" width="132" height="361"/>
+            <content>Passive Structure</content>
+          </child>
+          <child xsi:type="archimate:Note" id="id-3780ace4908745c48d74cc15869da790" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="60" y="36" width="37" height="37"/>
+            <feature name="lineAlpha" value="0"/>
+            <sourceConnection id="id-1e946b9e27b5492b891395d65e65f81f" source="id-3780ace4908745c48d74cc15869da790" target="id-9a80697f27e44b0d9975e4866f4423ee"/>
+          </child>
+          <child xsi:type="archimate:Note" id="id-9a80697f27e44b0d9975e4866f4423ee" targetConnections="id-1e946b9e27b5492b891395d65e65f81f" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+            <bounds x="60" y="384" width="37" height="37"/>
+            <feature name="lineAlpha" value="0"/>
+          </child>
+        </child>
+      </element>
+    </folder>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="ARCHI 3.2 Reference Cards en model" id="id-89fced48400d4cce98d74a4afde83711">
       <child xsi:type="archimate:DiagramObject" id="id-0f6742e424a441479746ca7ed29badeb" fontColor="#ffffff" alpha="0" archimateElement="id-d999b3ec15ce46c0ac9c6649621c56f0" type="1">
         <bounds x="828" y="348" width="13" height="13"/>
         <feature name="lineAlpha" value="0"/>
@@ -2014,49 +2141,6 @@ Migration</content>
       <child xsi:type="archimate:DiagramObject" id="id-f121384753af4822b7563658a5caa085" fontColor="#ffffff" alpha="0" archimateElement="id-077d4812defa455b8552ac926e98504e" type="1">
         <bounds x="828" y="1449" width="13" height="13"/>
         <feature name="lineAlpha" value="0"/>
-      </child>
-      <child xsi:type="archimate:Note" id="id-bd45d09eed3e4f98a562c2c93b20ea79" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#c9e7b7" textPosition="1" borderType="1">
-        <bounds x="1608" y="300" width="765" height="58"/>
-        <feature name="lineAlpha" value="0"/>
-        <content>Technology &amp; Physical</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-39a99f3cc71748cca721666ae9fa7059" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fillColor="#ccccff" alpha="25" borderType="1">
-        <bounds x="2008" y="36" width="173" height="420"/>
-        <content>Behavior</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-32943b0c67a647cc9f8bc10f46e578b0" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fillColor="#ccccff" alpha="25" borderType="1">
-        <bounds x="1824" y="36" width="173" height="420"/>
-        <content>Passive Structure</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-19234e3891aa4b108975720a537099bc" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" fillColor="#ccccff" alpha="25" borderType="1">
-        <bounds x="2192" y="36" width="173" height="420"/>
-        <content>Active Structure</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-b724979003304841ba8c9792fda1a425" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
-        <bounds x="1776" y="455" width="49" height="80"/>
-        <feature name="lineAlpha" value="0"/>
-        <sourceConnection id="id-f6b50ae6a9044ba9ad7d31235d7046b7" source="id-b724979003304841ba8c9792fda1a425" target="id-3bd842f38d56436a9ffbbbfd8eb55603"/>
-      </child>
-      <child xsi:type="archimate:Note" id="id-3bd842f38d56436a9ffbbbfd8eb55603" targetConnections="id-f6b50ae6a9044ba9ad7d31235d7046b7" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
-        <bounds x="2544" y="455" width="37" height="80"/>
-        <feature name="lineAlpha" value="0"/>
-      </child>
-      <child xsi:type="archimate:Note" id="id-4413a4888ee04edaa9caedf4fef6816f" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
-        <bounds x="1572" y="25" width="49" height="60"/>
-        <feature name="lineAlpha" value="0"/>
-        <sourceConnection id="id-f4f9b44c7cfa4eff93ab2a5dbc99511a" source="id-4413a4888ee04edaa9caedf4fef6816f" target="id-179edc92c31845dd8e946e3dbf827ab0"/>
-      </child>
-      <child xsi:type="archimate:Note" id="id-179edc92c31845dd8e946e3dbf827ab0" targetConnections="id-f4f9b44c7cfa4eff93ab2a5dbc99511a" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
-        <bounds x="1560" y="429" width="37" height="60"/>
-        <feature name="lineAlpha" value="0"/>
-      </child>
-      <child xsi:type="archimate:Note" id="id-881d177c60b64bbb97f0801a1ed77400" font="1|Segoe UI|15.75|1|WINDOWS|1|-21|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" borderType="2">
-        <bounds x="2112" y="492" width="97" height="80"/>
-        <content>Aspects</content>
-      </child>
-      <child xsi:type="archimate:Note" id="id-b1035f2f18674790b9f3afc854ad39c3" font="1|Segoe UI|15.75|1|WINDOWS|1|-21|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" borderType="2">
-        <bounds x="1500" y="240" width="73" height="80"/>
-        <content>Layers</content>
       </child>
       <child xsi:type="archimate:Group" id="id-801840c43a2941edb0ed218b3a8309f3" name="Passive Structure" font="1|Segoe UI|14.25|1|WINDOWS|1|-19|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI" textAlignment="1" fillColor="#f2f2f2" borderType="1">
         <bounds x="1656" y="565" width="276" height="694"/>
@@ -4039,6 +4123,152 @@ implementation process, or its realization.</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-4bbb66cfe0a14ea590926d9e7d90b065" font="1|Lucida Grande|12.0|0|COCOA|1|LucidaGrande" archimateElement="id-b0fa79833b514dd8abd919dc1353c882" type="1">
           <bounds x="621" y="538" width="55" height="41"/>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="id-93ccb5a45512490bbdc1c59888bc0885" name="Archimate Core Framework" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffff" borderType="1">
+        <bounds x="2484" y="25" width="709" height="457"/>
+        <child xsi:type="archimate:Note" id="id-64bf24991607427b9afd287442704220" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#c9e7b7" borderType="1">
+          <bounds x="96" y="288" width="589" height="97"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Technology</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-8fa45858845948f397fa68d596d0e5f4" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#f5dda9" textPosition="1" borderType="1">
+          <bounds x="96" y="72" width="589" height="61"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Strategy</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-e2b13cc2a1f34d9793cc329dcfbb9e1e" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" lineWidth="2" textAlignment="1" fillColor="#c2d7b1" textPosition="1" borderType="1">
+          <bounds x="106" y="319" width="567" height="54"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Physical</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-ee6c98e8556c45489017d5b66300434c" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffb5" textPosition="1" borderType="1">
+          <bounds x="96" y="144" width="589" height="61"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Business</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-1c969c78d2ba4bfbb72215212803cfcb" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="12" y="264" width="61" height="36"/>
+          <content>Layers</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-6cc9fa7ebcb94f92abe369a4c01eeaf3" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="48" y="455" width="37" height="60"/>
+          <feature name="lineAlpha" value="0"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-17cb20b8850844608711c0eee79f9133" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="465" y="420" width="67" height="29"/>
+          <content>Aspects</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-a7c5fd93c6d94c3183886d35816a1f80" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#b5ffff" textPosition="1" borderType="1">
+          <bounds x="96" y="215" width="589" height="61"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Application</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-fa6e1b72fe0841b796a622d2c69eb990" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="205" y="396" width="37" height="53"/>
+          <feature name="lineAlpha" value="0"/>
+          <sourceConnection id="id-e9ce4f2837674fb1a78ca05880f149f7" source="id-fa6e1b72fe0841b796a622d2c69eb990" target="id-01d7476d4625420cacd8b6f0f15b1306"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-01d7476d4625420cacd8b6f0f15b1306" targetConnections="id-e9ce4f2837674fb1a78ca05880f149f7" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="684" y="398" width="25" height="49"/>
+          <feature name="lineAlpha" value="0"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-4ecb5e4b0d804bf68e5a1f38e46eb03a" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#c0c0c0" alpha="155" borderType="1">
+          <bounds x="528" y="36" width="133" height="361"/>
+          <content>Active Structure</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-744748aa6aff4ac58ad99c1d370d3ab2" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#d5d5d5" alpha="155" borderType="1">
+          <bounds x="384" y="36" width="133" height="361"/>
+          <content>Behavior</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-b2b126f2ae2940dea47bc1a73fe23ddb" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#eaeaea" alpha="155" borderType="1">
+          <bounds x="241" y="36" width="132" height="361"/>
+          <content>Passive Structure</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-9f3560ae613240409757c1f0a8d43e4b" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="60" y="36" width="37" height="37"/>
+          <feature name="lineAlpha" value="0"/>
+          <sourceConnection id="id-2a28e03ada51486cac5b31b53f84de95" source="id-9f3560ae613240409757c1f0a8d43e4b" target="id-0cc7820f37d5442786ba43e60cb3097c"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-0cc7820f37d5442786ba43e60cb3097c" targetConnections="id-2a28e03ada51486cac5b31b53f84de95" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="60" y="384" width="37" height="37"/>
+          <feature name="lineAlpha" value="0"/>
+        </child>
+      </child>
+      <child xsi:type="archimate:Group" id="id-4d52868abc0d4184806afb7e66c97349" name="Archimate Full Framework" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffff" borderType="1">
+        <bounds x="1500" y="25" width="961" height="529"/>
+        <child xsi:type="archimate:Note" id="id-66a54a60968548559456f91d3fdcd5c1" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#c9e7b7" borderType="1">
+          <bounds x="84" y="288" width="685" height="97"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Technology</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-ef6d9f21d3dd44ada1417d0d18c259b3" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#f5dda9" textPosition="1" borderType="1">
+          <bounds x="84" y="72" width="685" height="61"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Strategy</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-e39ef84c285a42719af303813ef717b1" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" lineWidth="2" textAlignment="1" fillColor="#c2d7b1" textPosition="1" borderType="1">
+          <bounds x="94" y="319" width="663" height="54"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Physical</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-fa632b73e7064c999817099021f01bdb" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffffb5" textPosition="1" borderType="1">
+          <bounds x="84" y="144" width="685" height="61"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Business</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-655f34140eef4e048ca5d1f49c2426ca" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="12" y="264" width="61" height="36"/>
+          <content>Layers</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-0839c14006d942cb93f1868ad7649995" targetConnections="id-229cf7ac60824cfe886779e195a97fed" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="48" y="455" width="37" height="38"/>
+          <feature name="lineAlpha" value="0"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-83993de3ba5a4f99ad34cb4d0aeff3e9" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="528" y="492" width="97" height="29"/>
+          <content>Aspects</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-80aded2657074602b941a24f5e495039" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#b5ffff" textPosition="1" borderType="1">
+          <bounds x="84" y="215" width="685" height="61"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Application</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-12b9fa4325c34afb9989f3c3865eb742" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" textAlignment="1" fillColor="#ffe0e0" textPosition="1" borderType="1">
+          <bounds x="84" y="395" width="685" height="61"/>
+          <feature name="lineAlpha" value="0"/>
+          <content>Implementation &amp; &#xD;
+Migration</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-68f80abbe1b74a959fbd3b3a80937d2d" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="192" y="468" width="37" height="53"/>
+          <feature name="lineAlpha" value="0"/>
+          <sourceConnection id="id-a8aaf469974b45db81d95b602f22b45b" source="id-68f80abbe1b74a959fbd3b3a80937d2d" target="id-30d33bb6123444158c3625c286fa6bda"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-132640911b0744a6be4bee77fd615ab6" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#ccccff" borderType="1">
+          <bounds x="780" y="36" width="157" height="433"/>
+          <content>Motivation</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-30d33bb6123444158c3625c286fa6bda" targetConnections="id-a8aaf469974b45db81d95b602f22b45b" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="936" y="468" width="25" height="49"/>
+          <feature name="lineAlpha" value="0"/>
+        </child>
+        <child xsi:type="archimate:Note" id="id-bd918d878a2243088bd658d7954073a2" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#c0c0c0" alpha="155" borderType="1">
+          <bounds x="588" y="36" width="157" height="433"/>
+          <content>Active Structure</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-dbcb24949a0d4636a27b9be73c1b8793" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#d5d5d5" alpha="155" borderType="1">
+          <bounds x="408" y="36" width="157" height="433"/>
+          <content>Behavior</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-b9dc6be2520c4c619e268ea3e3961713" font="1|Lucida Grande|14.0|0|COCOA|1|LucidaGrande" fillColor="#eaeaea" alpha="155" borderType="1">
+          <bounds x="229" y="36" width="157" height="433"/>
+          <content>Passive Structure</content>
+        </child>
+        <child xsi:type="archimate:Note" id="id-3ac14247c48140c0ae32e3dc34045a21" fontColor="#ffffff" textAlignment="1" alpha="0" borderType="2">
+          <bounds x="48" y="36" width="37" height="37"/>
+          <feature name="lineAlpha" value="0"/>
+          <sourceConnection id="id-229cf7ac60824cfe886779e195a97fed" source="id-3ac14247c48140c0ae32e3dc34045a21" target="id-0839c14006d942cb93f1868ad7649995"/>
         </child>
       </child>
     </element>
