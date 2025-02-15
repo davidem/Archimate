@@ -21,3 +21,4 @@ It consists out of
 - Updated Full Framework
 - Added Core Framework
 - Retrofitted elemental view into Full Framework for cleared overview. And swapped Active and Behavior to match framework.
+- Some minor adjustments to the metamodel
