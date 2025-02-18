@@ -9,7 +9,7 @@ It consists out of
 - Grouping of Composite,Passive Structures, Active Structures & Motivation (various sources)
 - Overview of layers & aspects (from official Open Group information)
 
-## Updates compared to Remco's original
+## Updates to Remco's original
 
 - Separate specification views besides the huge overview
 - A bit more space per line, so each element fits properly
@@ -22,3 +22,8 @@ It consists out of
 - Added Core Framework
 - Retrofitted elemental view into Full Framework for cleared overview. And swapped Active and Behavior to match framework.
 - Some minor adjustments to the metamodel
+
+## New
+
+- Basic Legend
+- Started adding common viewpoints
