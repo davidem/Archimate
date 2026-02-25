@@ -23,7 +23,20 @@ It consists out of
 - Retrofitted elemental view into Full Framework for clearer overview. And swapped Active and Behavior to match framework.
 - Some minor adjustments to the metamodel
 
-## New
+## Added viewpoint examples
 
 - Basic Legend
-- Started adding common viewpoints
+- Basic examples
+  - Application Structure Viewpoint
+  - Information Structure Viewpoint
+  - Layered Viewpoint
+  - Physical Viewpoint
+  - Technology Viewpoint
+- Motivation examples
+  - Goal Realization Viewpoint
+  - Motivation Viewpoint
+  - Requirements Realization Viewpoint
+  - Stakeholder Viewpoint
+- Strategy Examples
+  - Capability Map Viewpoint
+  - Strategy Viewpoint
