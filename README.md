@@ -40,3 +40,7 @@ It consists out of
 - Strategy Examples
   - Capability Map Viewpoint
   - Strategy Viewpoint
+
+## Added Framework views
+
+- TOGAF and Archimate integration
